@@ -1,0 +1,27 @@
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke
+}
+ul{
+    color: whitesmoke
+}
+ol{
+    color: whitesmoke
+}
+.pic{
+    width:300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: #71916C;
+    opacity: 0.65;
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
+.subheading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
